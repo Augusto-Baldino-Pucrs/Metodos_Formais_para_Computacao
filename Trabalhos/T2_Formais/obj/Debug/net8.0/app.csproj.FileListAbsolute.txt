@@ -1,0 +1,15 @@
+/home/augusto/Projects/MFC-T2/obj/Debug/net8.0/app.GeneratedMSBuildEditorConfig.editorconfig
+/home/augusto/Projects/MFC-T2/obj/Debug/net8.0/app.AssemblyInfoInputs.cache
+/home/augusto/Projects/MFC-T2/obj/Debug/net8.0/app.AssemblyInfo.cs
+/home/augusto/Projects/MFC-T2/obj/Debug/net8.0/app.csproj.CoreCompileInputs.cache
+/home/augusto/Projects/MFC-T2/obj/Debug/net8.0/app.sourcelink.json
+/home/augusto/Projects/MFC-T2/app
+/home/augusto/Projects/MFC-T2/obj/Debug/net8.0/app.dll
+/home/augusto/Projects/MFC-T2/obj/Debug/net8.0/refint/app.dll
+/home/augusto/Projects/MFC-T2/obj/Debug/net8.0/app.pdb
+/home/augusto/Projects/MFC-T2/app.deps.json
+/home/augusto/Projects/MFC-T2/obj/Debug/net8.0/app.genruntimeconfig.cache
+/home/augusto/Projects/MFC-T2/app.runtimeconfig.json
+/home/augusto/Projects/MFC-T2/app.dll
+/home/augusto/Projects/MFC-T2/obj/Debug/net8.0/ref/app.dll
+/home/augusto/Projects/MFC-T2/app.pdb
